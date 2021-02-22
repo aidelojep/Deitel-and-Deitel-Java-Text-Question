@@ -1,0 +1,10 @@
+Pseudoche for Almighty Equation:
+
+1.) Users input numbers (firstNumber, secondNumber and thirdNumber)
+2.) firstNumber, secondNumber  and thirdNumber are saved in variables namely A,B and C respectively.
+3.) The Variables A,B and C are declared and a mathematical formula derived to carry out computation.
+4.) The Almighty Formula/ Quadratic Equation is invoked to arrive at a value for "X".
+5.) Another variable D is declared to enhance the order of preference.
+6.) The law of BODMAS is followed to calculate the values of D and X, that is, inward out.
+7.) The user gets a prompt message to input the values of X1 or X2 into the Almighty Formula (X^2 + BX + C)
+8.) The process ends.
